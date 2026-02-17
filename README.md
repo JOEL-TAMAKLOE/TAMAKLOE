@@ -13,7 +13,8 @@ A dedicated data scientist  and A.I model developer with a passion for leveragin
 
 [![Image of https://github.com/JOEL-TAMAKLOE/my-views-counter](https://github.com/JOEL-TAMAKLOE/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/JOEL-TAMAKLOE/my-views-counter)
 <br/>
-
+[![Image of https://github.com/JOEL-TAMAKLOE/top-github-users](https://github.com/JOEL-TAMAKLOE/top-github-users/blob/master/svg/profile/badge.svg)](https://github.com/JOEL-TAMAKLOE/top-github-users)
+<br/>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/tamakloe#6832) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kha_fui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JOEL-TAMAKLOE)
  <a href="https://ko-fi.com/joeltamakloe"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
